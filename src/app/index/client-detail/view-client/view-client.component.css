@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+
+  .center-table{
+    padding: 1% 2%;
+  }
+
+  .header{
+    text-align: center;
+    margin-top: 1%;
+  }
+
+  .center-table{
+    border: cornflowerblue;
+  }
+
+  .mat-header-cell{
+    background-color:#51e0b9f2;
+    color:white;
+    font-size:15px;
+    font-weight: 500;
+  }
